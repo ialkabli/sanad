@@ -1,0 +1,11 @@
+test_assignment_resolution_and_stale_update (test_service.Tests.test_assignment_resolution_and_stale_update) ... ok
+test_csv_formula_safety_and_demo_guard (test_service.Tests.test_csv_formula_safety_and_demo_guard) ... ok
+test_invalid_input_and_transaction_rollback (test_service.Tests.test_invalid_input_and_transaction_rollback) ... ok
+test_persistence_search_and_overdue (test_service.Tests.test_persistence_search_and_overdue) ... ok
+test_two_windows_do_not_overwrite_each_other (test_service.Tests.test_two_windows_do_not_overwrite_each_other) ... ok
+test_create_ticket_through_dialog (test_ui.UITests.test_create_ticket_through_dialog) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.709s
+
+OK

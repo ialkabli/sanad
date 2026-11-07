@@ -1,0 +1,14 @@
+{
+  "project": "sanad",
+  "app": "Sanad",
+  "test_count": 6,
+  "source_tests": "passed",
+  "qt_ui_test": "passed",
+  "packaged_exe_launch": "passed",
+  "exe_bytes": 38140960,
+  "sha256": "e42d27f441ff95c72a09019dcd4309f65deb58ae362217ae8637c317314e0e8a",
+  "platform": "Windows 11 x64",
+  "interface_check": "QtTest and offscreen render; human usability testing not claimed",
+  "database_location": "per-user application data; isolated temporary databases used for checks",
+  "publishing": "none"
+}
